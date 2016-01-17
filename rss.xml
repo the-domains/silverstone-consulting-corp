@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SilverStone Consulting Corporation]]></title>
         <description><![CDATA[SilverStone Consulting Corporation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/silverstone-consulting-corp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 17:52:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 17:54:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/silverstone-consulting-corp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Coming Soon</p>]]></description>
-            <link>undefined4d1a55b2-5815-4051-8707-1c4a307b3edc/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b5fcbd6-0e4b-47d6-b259-aa33f708aa7f.png">]]></description>
+            <link>https://thegrid.ai/silverstone-consulting-corp/4d1a55b2-5815-4051-8707-1c4a307b3edc/index.html</link>
             <guid isPermaLink="false">4d1a55b2-5815-4051-8707-1c4a307b3edc</guid>
-            <pubDate>Sun, 17 Jan 2016 17:52:01 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 17:54:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
