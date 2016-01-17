@@ -1,6 +1,6 @@
 name: SilverStone Consulting Corp
 favicon: null
-layout_spectrum: 0.25931
+layout_spectrum: 0.4963
 typography_spectrum: 0.89915
 title: SilverStone Consulting Corporation
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.06710255658254027
   saturation: 0.25
-  rhythmicContrast: 0.7693320554681122
+  rhythmicContrast: 0.75
 purpose: []
