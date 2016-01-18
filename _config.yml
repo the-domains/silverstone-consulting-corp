@@ -1,8 +1,7 @@
 name: SilverStone Consulting Corp
 favicon: null
-layout_spectrum: 0.4963
-typography_spectrum: 0.89915
-title: SilverStone Consulting Corporation
+layout_spectrum: 0.47510679834522307
+typography_spectrum: 0.6197607144713402
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#7b7b7b'
-    - '#595959'
-    - '#333333'
-    - '#0c0c0c'
-  brandStrength: 1
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8420615729410201
   lightness: 0.06710255658254027
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  saturation: 0.22326738643459976
+  rhythmicContrast: 0.7693320554681122
 purpose: []
